@@ -27,3 +27,10 @@ html {
   font-size: 10rem;
   flex-flow: column;
 }
+.navbar{
+  height: 30vh;
+  width: 100vw;
+  border-style: dashed;
+  color: red;
+  position: fixed;
+}
